@@ -1,3 +1,160 @@
+5
+
+That's how you have made your own decision. Is it a reasonable one? Yes, because it is based on high-quality reasoning. Is it the best decision--the one an expert would have made in your place? You don’t know this, but yes, the experts do say that stream water will be safe if you boil it for a minute or two. Giardia is caused by protozoa which can’t live for long at high temperature. Other micro-organisms can survive this heating, but they usually won’t cause any human illness. The reason people use water-purification tablets instead of boiling is for convenience; using the tablets avoids all the extra time for the water to boil and then later to cool down to drinking temperature.
+
+Now let's turn to the principles of logical reasoning that have been used in this situation. The principles, which are the focus of the next section, are neither rules nor recipes; they are pieces of advice that must be applied flexibly. They are called "principles" only because it sounds odd to call something "piece of advice eleven" or "thing to do seven."
+
+Advice for Logical Reasoners
+
+All of us use these principles every day, so this discussion is just a reminder of what you already know. One principle is to ask for reasons before accepting a claim or conclusion, unless you already have good enough reasons. You applied this principle when you asked Juanita why she thought it best to leave. Similarly, if you expect people to accept your own claim, then it's your responsibility to give them reasons they can appreciate.
+
+If you expect people to accept your own conclusion, then it's your responsibility to give them reasons they can appreciate.
+
+Let's examine that last remark. A conclusion (a claim) backed up by one or more reasons in any order is called an argument, even when the reasoner is not being argumentative or disagreeable. The word “argument” is a technical term we will be using frequently in this course. Being logical means, among other things, that you should give an argument to support your claim if you expect other people to accept it. But give people arguments they can understand. Don't get overly technical. Otherwise, you might as well be talking gobbledygook. Tailor your reasons to your audience. Your goal in giving an argument is to design your reasons so that your audience sees that the reasons imply the conclusion. Another way of saying this is that your audience should see that the conclusion follows from the reasons given to support it.
+
+6
+
+CONCEPT CHECK────
+
+Which of the following passages contain an argument in our technical sense of that word?
+
+a. I hate you. Get out of here!
+
+b. I'm sure Martin Luther King Jr. didn't die during the 1960s, because it says right here in the encyclopedia that he was assassinated in Memphis in 1998.
+
+c. The Republican Party began back in the 1850s as a U.S. political party. Abraham Lincoln was their first candidate to win the presidency.
+
+d. I don’t believe you when you say Martin Luther King Jr. could have been elected president if he hadn’t been assassinated.
+
+Try to discipline yourself to read and answer these sample exercises before looking up the correct answer in the footnote below, and before reading on. You do not need to write out the answer. The exercises are designed to test your understanding of concepts in the material you have just read. If you can answer the Concept Checks, then you will be ready to tackle the more difficult exercises at the end of each chapter.
+
+────1
+
+Let's continue with our introduction to the principles of logical reasoning. (There are quite a few more principles to be uncovered.) For example, in the camping-trip story, you paid attention both to what Juanita said and to what Emilio said, and you wished there was a park ranger nearby to ask about Giardia. The underlying principle you applied is to recognize the value of having more relevant information. In the camping situation, it would not have been irrational to choose to pack up and go home, but it probably wouldn’t have been the best decision. The point is to make your decision on the basis of a serious attempt to assess the relevant evidence. You did this when you paid attention to probabilities and consequences--you weighed the pros and cons--of going or staying. That is, you weighed the benefits and drawbacks.
+
+1 The answer to the present Concept Check is (b), even though there is an error in the encyclopedia because King was really assassinated in 1968. Choice (a) is not the correct answer because, although it does show two people having a disagreement, neither one is arguing in our technical sense of “argument,” because neither is giving reasons for what is said. Choice (c), on the other hand, merely describes the Republican Party. One moral to draw from this Concept Check is that an argument based on incorrect information is still an argument; a bad argument is still an argument. A second moral is that an argument can have just one reason, although most arguments use more than one.
+
+7
+
+Here's a picture above of what to do. Think of a balance scale in which objects can be placed on either side of the scale. Put the pros on one side and the cons on the other, but assess each one by its significance or "weight." After all the pros and cons are assessed this way and added onto the scale, the winner is the side that tilts downward. Some considerations weigh more than others, so it's not just a matter of which side has a longer list of reasons. Weighing means considering how much you'd gain or lose if one of the consequences were to occur. Also, you should consider how probable it is that a particular consequence would really occur. Don't give much weight to a possible consequence that is one in a million.
+
+More precisely stated, the procedure of weighing the pros and cons is a decision procedure that requires
+
+(1) considering the possible courses of action (pack up and hike back out, stay and boil the water, go on a search for a wet leaf to lick, and so forth),
+
+(2) guessing the consequences of those various courses of action (being thirsty, continuing the camping trip, getting a disease),
+
+(3) evaluating those consequences (being thirsty is a negative, continuing the camping trip is a positive, getting a disease from Giardia would be terrible), and
+
+(4) considering the probabilities that those various consequences will actually occur (It is 100 percent probable that you won't be thirsty after you drink from the stream. It is only very slightly probable that you'll catch a disease if you drink boiled water.)
+
+8
+
+It can be helpful to delay making important decisions when that is practical. During the extra time, you will have an opportunity to think through the problem more carefully. You could discover consequences of your decision that you might not have thought of at first. For example, in the camping situation with Emilio and Juanita, you might have quickly agreed to let Emilio taste the water first to see whether it had Giardia. Perhaps only later would you have thought about the consequence of his becoming too sick to hike back out of the forest. Would you have been able to carry him back to safety? Faced with a question of what to do or believe, logical reasoners try to weigh the pros and cons if they have the time; they search around for reasons that might favor their conclusion while not hiding anything negative. That is, they identify the reasons in favor of taking a specific position on the issue, and they identify the reasons against taking that position; then they weigh the two sets of reasons and arrive at a conclusion fairly.
+
+────CONCEPT CHECK────
+
+Which pair does not fit with the others?
+
+• strong points and weak points
+
+• advantages and drawbacks
+
+• highs and lows
+
+• positives and negatives
+
+The answer is:
+
+2 Highs and lows. All the others are about pros and cons.
+
+Here is a second example of logical reasoning that weighs the pros and cons. Imagine that a few days ago you promised Emilio you would go to the movies with him this Friday evening. You have every intention of going, but you are mildly considering going with Juanita instead, and telling Emilio you are sick, even though you aren’t sick. Telling him you are sick while instead going with Juanita would be called an alternative action. Let's weigh the pros and cons of taking the original action or this alternative action. (We won't consider other alternative actions, such as asking Emilio whether Juanita can go with the two of you.)
+
+One possible consequence of going only with Juanita is that you would have more fun. It's not that you would have no fun with Emilio; it's just that you believe it would be more fun to go only with Juanita, all other things being equal. You estimate that the odds are about 60-40 in favor of
+
+9
+
+more fun if you go with Juanita instead of Emilio. Another possible consequence is that Juanita will at first be flattered that you asked her to go with you.
+
+There is still another possible consequence to consider: You will be breaking your promise to Emilio, which would be morally wrong and thus have a negative value. It wouldn't be as negative as letting Emilio drink water that you know will cause a disease, but it is clearly negative, and the probability of this consequence is 100 percent; that is, it is certain to occur if you tell Emilio you are sick. In addition, if Emilio finds out, then your friendship with him might end. This is also a negative, and one that is likely to occur, but then again Emilio might never find out what you’ve done. Finally, there is one more consequence worth considering: If Juanita finds out you broke your promise to Emilio, she will consider you less trustworthy than she originally thought. This is a negative, too. At this point, you cannot think of any other consequences that should be taken into account.
+
+After pondering all this, you realize that it is likely that most of the negative consequences will actually occur if you do go out with Juanita, and these negatives are worse than the extra fun you’d have with Juanita and that it's only about sixty percent likely that you will have more fun with Juanita. So, the negatives weigh more than the positives. After weighing the pros and cons of the two alternatives this way, you decide to keep your promise to Emilio. That is logical reasoning in action.
+
+A critical thinker doesn't always use the procedure of weighing the pros and cons. Weighing the pros and cons will give you a good answer only in limited situations where you know the important consequences of your potential actions and where you have enough time to consider those consequences. In many situations, the best thinking requires taking shortcuts--making quick guesses or relying on a trusted friend to make the decision for you.
+
+Logical reasoners need to be flexible thinkers. For example, in a situation where you're playing baseball and a friend yells "Duck!" it is illogical to spend much time searching around for good reasons. The logical thing to do is to duck down immediately. Nevertheless, even in this situation you didn't duck without a good reason. You know from previous experience that "Duck" said in a certain tone of voice means that there is a danger to your head that requires lowering it fast and protecting it from a sudden impact. You know not to stick your head up and say "Where's the duck?" Similarly, if someone were to run out of the Wells Fargo Bank building shouting, "Look out, the bank is being robbed," it wouldn't be logical to spend much time wondering what river bank the person is talking about. The point is that logical reasoners assess what is said in light of the situation. That is all part of our common sense.
+
+Be sensitive to the situation. If you happen to know what time it is when someone passes you on the street and asks you, "Do you know the time?" it is illogical to answer only "Yes" and walk away─ unless you are trying to irritate the person who asked the question.
+
+10
+
+Real life decision-making often must work in a dynamic, unpredictable environment. In the business world, new competitors appear, prices rise or fall, opportunities that were available at one time are not available at another. The uncritical decision maker is unaware of these changes and continues to make decisions as if in the old environment. Alert decision makers understand the need to know when time is getting short and a decision is needed. This sort of recognition requires frequently asking in the background, “Should I continue to weigh the pros and cons, or should I stop and act now?”────3 Like everyone else, you are curious, so you are open to adding new beliefs to your old beliefs. There are logical--that is, appropriate--ways of doing this, as well as illogical ones. The goal is to add truths, not falsehoods. For example, you are waiting in the grocery store checkout line and
+
+The less time available, the more rational it becomes to be reactive and to act on intuitions or ‘gut instinct.’
+
+ ────CONCEPT CHECK──── Ramone's friend says, "Ramone, look at those two white guys on the other side of the street. They look friendly. The blond guy with him looks like he would rip your lungs out just to see what would happen. The other one is just as fierce, and he's carrying the radio I lost yesterday; it's got my sticker on the side." If Ramone leaves believing that the two guys are friendly because his friend said, "They look friendly," then he has violated some principle of logical reasoning. What principle?
+
+• Reasons should be tailored to the audience.
+
+• Don't take people too literally.
+
+ • Consider the possible courses of action.
+
+ • Weigh the pros and cons.
+
+The answer is
+
+3 The second choice is correct. From what else the friend says, you should be able to tell he was being sarcastic and wasn't serious about the two guys being friendly. He didn't mean for Ramone to take his statements literally.
+
+────3 Like everyone else, you are curious, so you are open to adding new beliefs to your old beliefs. There are logical--that is, appropriate--ways of doing this, as well as illogical ones. The goal is to add truths, not falsehoods. For example, you are waiting in the grocery store checkout line and notice a magazine’s front-page headline, "World War II Bomber Discovered Intact on Surface of Moon."
+
+11
+
+You didn't know that, did you? Well, it wouldn't be logical to believe it. Why not? Here are three reasons: (1) Bombers can't fly to the moon, (2) no one is going to bust the national budget to send one there by rocket ship, and (3) there aren't any alien-piloted UFOs that snatch military antiques. The principle behind this logical reasoning is:
+
+Use your background knowledge and common sense in drawing conclusions.
+
+There is a Calvin and Hobbes cartoon in which Calvin finds some charred rocks and ashes in his back yard and claims this is dramatic proof that UFOs landed in his backyard. That cartoon also illustrates the following principle that should be used by logical reasoners:
+
+Extraordinary statements require extraordinarily good evidence to back them up.
+
+A bit of charcoal is not extraordinarily good evidence of a UFO landing, but you ought to have extraordinarily good evidence if you are going to believe in such an unlikely event. Most every reader of the cartoon knows that, except Calvin, so that is why it is humorous.
+
+Similarly, if I were to say to you, “I met my friend Tiffany Whetstone at the Co-op Grocery yesterday afternoon," you would demand very little evidence that this is so. Perhaps the confirming word of a mutual friend would settle any doubts you might have. However, if I were to say to you, “I met my friend Tiffany Whetstone, who has been dead for the last ten years, at the Co-op Grocery yesterday afternoon," you would probably think I was lying or crazy. You certainly would demand extraordinarily good evidence before accepting what I said as true. In this case, even a confirmation by our mutual friend would be insufficient evidence. However, suppose I said instead, “I met my friend Tiffany Whetstone at the Co-op Grocery yesterday afternoon. She has a wooden leg and had just won two sets yesterday in her doubles tennis match. She is the best player on her tennis team in Antarctica." You ought to think I was joking. If you find that I’m not, then you ought to think that my statement is weird, though not as weird as the one about her being dead for ten years.
+
+12
+
+It could be true that she played tennis in Antarctica and has a wooden leg, but you ought to suspend belief until you get some very good evidence. By not relying on the principles of logical reasoning, some people are apt to make the mistake of believing too easily that there are World War II bombers on the moon, that UFOs have landed in someone's backyard, and that dead friends have come back to life. All these things might have happened, but currently available evidence is extremely weak. The only reason to believe these things is that a few people have said they’ve happened. And you have lots of background beliefs and common sense that suggest these things very probably did not happen. It is a sign of being logical if the degree of confidence you have in your reasons directly affects the degree of confidence you place in the conclusion drawn from those reasons. A person who believes strongly even though the reasons are flimsy is being stubborn or dogmatic.
+
+────CONCEPT CHECK──── Here are three arguments about the issue of how David's uncle died. All three are arguing for the same conclusion--that David's uncle died of a drug overdose. Which of these arguments should be considered the most convincing, using only your background knowledge and common sense?
+
+a. David said that his uncle died of a drug overdose, so his uncle must have died of a drug overdose.
+
+b. David's uncle died of a drug overdose because we know that David predicted two years ago that this is how his uncle would die.
+
+c. Look, the coroner's report specifically says that David's uncle is dead. Also, everybody in the neighborhood knows that the uncle did drugs every day. So, his uncle died of a drug overdose. I don’t know what David thinks, though.
+
+────4 4 Answer (a) provides the best reason to believe that David's uncle died of a drug overdose. Although the world has lots of liars in it, we generally take people at their word unless we have a reason to be suspicious. Answers (b) and (c) give worse reasons. Answer (b) asks us to believe David's prediction from two years earlier. It makes more sense to trust what David is saying today (which is what we have in answer (a)) than what he said two years ago about the future. Answer (c) gives us a very good reason to believe that the uncle is dead but gives only a very weak reason about the cause of death. Maybe the uncle did drugs but got hit by a truck. So, answer (a) is best. (The best information would be the coroner's report or a police report on what caused the death, but you don’t have that information to use.)
+
+13
+
+Following the rules of logical reasoning comes more easily to some people than to others. All of us, however, are capable of improvement, and we all should want to improve, because improvement has a yield, a payoff: you tend to minimize your false beliefs, and you perform actions that don’t have such bad consequences.
+
+Being logical isn't the only way to make high quality decisions. Sometimes these decisions are made by accident; sometimes they are made in illogical ways, such as by following a horoscope. In the long run, however, statistics show that the smart money is on logical reasoners. Logical reasoning pays. When the expert says, "Hey, don't drink that stuff; it could kill you," the logical reasoner will defer to the expert and put down the cup. The irrational thinker will think, "Experts have been wrong in the past; I'm drinking anyway."
+
+Everyone knows that the best decisions are based on facts, but how do we go about distinguishing facts from all the opinions we are faced with? This book provides many helpful hints on this topic. One hint is that a fact is the same thing as a truth, and a truth does not change depending upon how many people accept it. A second hint is to avoid accepting inconsistencies; they are a sure sign of error. We made use of this logical-reasoning principle when we noticed that Juanita's advice to end the camping trip was inconsistent with Emilio's advice to continue it. Detecting an inconsistency doesn't reveal where the fault lies, but it does tell us that a fault is present. If some man says the surface of Neptune on average is colder than 200 degrees below zero, and his sister says that it's not nearly that cold, one of the two must be wrong about the facts. We know this even if we don't know the facts about Neptune. So, one of the cardinal principles of logical reasoning is:
+
+Be consistent in your own reasoning and be on the lookout for inconsistency in the reasoning of others.
+
+Here is a definition of inconsistency:
+
+Definition Statements are logically inconsistent if they conflict so that at least one of them must be false because together they imply something is so and also not so. Similarly, a group of instructions is inconsistent if together the instructions imply that somebody must both do and not do something.
+
+
+
+
+
+
 Every argument contains at least one intended conclusion plus one or more supporting reasons, called premises. However, in some passages it is not easy to tell whether an argument occurs at all, nor what the premises and conclusion of an argument really are, nor how other arguments in the passage are related to that argument. This chapter explores that understatement. It begins with an introduction of special phrases that often indicate the presence of premises and conclusions. Then the chapter investigates the problems of identifying the unstated premises and conclusions. For especially complex argumentation, the chapter introduces a diagramming technique that can provide a helpful display of the argument structure.
 What is a Statement?
 Statements are what is said. More accurate, statements are things that are said that are either true or false. They are also called claims. Here is one: "The homicide rate in England was fifty times higher in the fourteenth century than it is today." Here is another: “Neptune has the fastest winds in the solar system.” Both of these statements happen to be true. A statement that is especially important to us might be called a proposition, assertion, judgment, hypothesis, principle, thesis, or, in some situations, a law. Statements have to be capable of being true or false even if we don't know which. So, if you say, “Is it midnight?” then you've not made a statement. Suggestions, commands, and proposals aren’t statements either. The suggestion “We should get a new refrigerator,” and the command, “Stand back!” and the proposal, “Let’s quit studying,” are not statements. It would be very odd to call any of them “true” or “false.” The following are statements: “She suggested we should get a new refrigerator,” and “He said, 'Stand back!'”
