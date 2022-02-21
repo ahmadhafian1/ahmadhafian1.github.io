@@ -150,10 +150,98 @@ Here is a definition of inconsistency:
 
 Definition Statements are logically inconsistent if they conflict so that at least one of them must be false because together they imply something is so and also not so. Similarly, a group of instructions is inconsistent if together the instructions imply that somebody must both do and not do something.
 
+14
+
+────CONCEPT CHECK────
+
+Which of the following, if any, are most likely not principles of logical reasoning?
+
+• Don't accept inconsistent beliefs.
+
+• You ought to give an argument in defense of what you want another person to believe.
+
+• The degree of confidence you have in your reasons should affect the degree of confidence you have in your conclusion.
+
+────5
+
+Statements are logically inconsistent with each other if you can tell just from their meaning that they can't all be true. A group of statements is logically consistent if it's not logically inconsistent. Because a statement is usually made with a declarative sentence, we commonly speak of sentences being consistent or inconsistent with each other and don’t mention the word “declarative.” Also, we usually don’t use the word “logically.”
+
+────CONCEPT CHECK────
+
+Create two sentences about basketball that are inconsistent with each other.
+
+────6
+
+Examples of Good Reasoning
+
+So far, we've explored the importance of reasoning logically in situations that require a decision--either a decision about what to do or a decision about what to believe. Along the way we've introduced a variety of rules of thumb for high-quality reasoning. We have called these principles of logical reasoning. We have examined short examples of good reasoning and short examples of bad reasoning. The Giardia example was a long example of good reasoning.
+
+5 All are principles of good reasoning.
+
+6 Michael Jordan was a pro basketball player. No, he wasn't.
+
+pg15
+
+Here is a second, long example--one that is slightly more complicated and uses some other especially interesting principles of good reasoning. The scene is a jury room in which jurors are discussing whether Jesse Mayfield is guilty of armed robbery. The State of Alabama, represented by the prosecutor, has charged Mayfield with using a handgun to hold up the All-Night Grocery in downtown Birmingham.
+
+Juror Washington Jones begins the dialogue by reasoning about the case presented by the prosecuting district attorney against Mayfield. Another juror, Dr. White, disagrees with what juror Jones says. Each of the two speakers offers his own argument about which explanation of the defendant's actions is best.
+
+Jones: OK, let's consider what we know. We know there was a crime, since we can believe the grocery owner's testimony that all the night's receipts are missing. The grocery clerk confirmed that testimony. She is the lone eyewitness to the crime; there were no others in the store at 2 a.m., when she said the crime was committed. We also know the grocery's videotaping system had been broken all week. The prosecutor has also proved that Mayfield arrived at the grocery that night at about 2 a.m. The evidence for that is that the time was on the grocery receipt found in his wastebasket when the police arrested Mayfield at his house later that morning. Mayfield matches the general description of the robber given by the clerk at 2:30 a.m., when she talked to the police. So, we've got to conclude that Mayfield was in the store at 2 a.m. and that the robbery occurred before 2:30 a.m., probably at 2 a.m. The clerk also stated that the robber ran out of the store and headed into a nearby apartment complex. Mayfield lives in an apartment in the direction she pointed to. A neighbor told the police that Mayfield ran up his apartment's steps sometime
+
+16
+
+around 2 a.m. that night. What else do we know that can be considered as evidence against Mayfield? Let’s see. Mayfield has no record of robbery, but he was convicted of minor assault against a neighbor six years ago. Well, that's about it. Does that make the case for the prosecution?
+
+Dr. White: Yes, he's guilty; there's no other explanation for the evidence. I say we vote right now.
+
+Jones: Hold it, Doc. There is another explanation, and Mayfield's defense attorney gave it to us. Maybe Mayfield was there all right, but just to buy a bottle of whiskey, and the clerk stole the money that night after Mayfield left. She could have hidden the cash and then called the cops. The whole case against Mayfield hangs on what she alone says. Mayfield says he is innocent, but he admits being in the store in the early morning to buy whiskey. The prosecutor admitted that none of the stolen money was found, and no gun was found. So, all the facts fit that other explanation just as well as the prosecution's explanation. Besides, there is an additional reason to suspect the clerk: The defense has shown that she was thrown out of her college sorority for stealing their petty cash. I say the defense attorney has shown that Mayfield could have been framed. Sure, there's some evidence against Mayfield, but not enough.
+
+Dr. White: Mayfield is as guilty as sin. He won't even look the judge or the prosecutor in the eye when they talk to him. Very suspicious. You left that out of the story, Jones. Mayfield's an alcoholic, too. Think of the number of crimes committed by alcoholics. They need that next drink, right? Also, even though he now admits being in the All-Night Grocery that morning, Mayfield lied about being there when he was first arrested, didn't he?
+
+Jones: Yes, but what does that prove? He was arrested with his wife present, which is why he lied about being there, according to his defense attorney. He said she wouldn't let him buy whiskey with her money. Now, about that guilty look. Guilty looks don't make you guilty. I can think of ten reasons why he looked that way. The case against Mayfield isn't proven, at least not beyond a shadow of a doubt. Better that five robbers go free than one innocent person gets locked up. What do the rest of you jurors think?
+
+Dr. White: That's just crap! He's guilty! Listen, you can't call that nice young white clerk a liar. It's Mayfield who's the liar!
+
+If all this is supposed to contain an example of good reasoning, what is so good about it? Well, first, Jones uses the following principle of logical reasoning when he is explaining the facts of the robbery case: Explanations should fit all the relevant facts. Second, Jones demonstrates good reasoning in that he understands his responsibility to back up his conclusion that the case against Mayfield isn't strong enough. Jones backs it up by showing that a second explanation, the frame-up story, fits the facts just as well. In doing so, he listens to the opposition, tries to consider all the evidence, and weighs the pros and cons. By pointing to the defense attorney's explanation of the facts and cautioning his fellow jurors that the D.A. has not presented enough evidence, Jones uses a key principle of logical reasoning:
+
+17
+
+Your opponent's explanation is less believable if you can show that there are alternative explanations that haven't been ruled out.
+
+Jones demonstrates an understanding of the fact that weaker reasons require a more cautious conclusion; he doesn't overstate his conclusion. He is careful to follow the principle: Don't draw a conclusion until you've gotten enough evidence; he doesn’t rush to judgment. Jones obeys another principle of logical reasoning: Stick to the subject. White goes off on a tangent, talking about alcoholism and whether Mayfield looked the judge and DA in the eye. The comment about the clerk being white is also irrelevant, and probably racist. On the other hand, all of Jones's remarks are relevant.
+
+There is much more that could be said regarding the reasoning in this robbery case. We won’t pursue this case study any more, but in later chapters we will explore all the principles of logical reasoning that were just mentioned. This chapter has looked at some examples of good reasoning from ordinary citizens. As a group, however, scientists who are reasoning in their area of expertise are perhaps our society's best examples of critical thinkers. By and large most of them, most of the time, are doing the best they can to reason carefully and critically. Of course sometimes they make mistakes; they are only human.
+
+This book is concerned with many other kinds of reasoning, not just with argumentation. For example, when you are trying to summarize a complicated explanation of allowable deductions on I.R.S. income tax form 1040 Schedule C, you are not arguing, but you are doing some critical thinking. Your critical thinking skills also involve assessing whether a group of sentences are consistent, whether a proposed definition is successful, whether an advertisement gives any useful information about a product, whether a speaker is being fair in a debate with an opponent, whether a statistical sample was biased, and whether someone's supposed scientific explanation is unscientific. This book is designed to improve all these other critical thinking skills, too, even though they don't directly involve arguments.
+
+Review of Major Points
+
+This chapter emphasized that logical reasoning is your guide to good decisions. It is also a guide to sorting out truth from falsehood. This chapter began with several case studies of logical reason-ing. It also pointed out some common errors in reasoning. From these examples we were able to extract the following principles of logical reasoning: (1) ask for reasons before accepting a
+
+18
+
+conclusion, (2) give an argument to support your conclusion, (3) tailor reasons to your audience, (4) design your reasons to imply the conclusion, (5) recognize the value of having more relevant information, (6) weigh the pros and cons, (7) consider the possible courses of action, (8) look at the consequences of these various courses of action, (9) evaluate the consequences, (10) consider the probabilities that those various consequences will actually occur, (11) delay making important decisions when practical, (12) assess what is said in light of the situation, (13) don't take people too literally, (14) use your background knowledge and common sense in drawing conclusions, (15) remember that extraordinary statements require extraordinarily good evidence, (16) defer to the expert, (17) remember that firmer conclusions require better reasons, (18) be consistent in your own reasoning, (19) be on the lookout for inconsistency in the reasoning of yourself and others, (20) check to see whether explanations fit all the relevant facts, (21) you can make your opponent's explanation less believable by showing that there are alternative explanations that haven't been ruled out, (22) stick to the subject, and (23) don't draw a conclusion until you’ve gotten enough evidence.
+
+These principles are merely pieces of advice; they are not rules or recipes. All the points, principles, and problems discussed in this chapter will receive more detailed treatment in later chapters. Those chapters will continue to systematically explore the intricacies of being logical. Although not all the logical principles in the world will be introduced in this book, all the most important ones will be. Regarding the problem of whether some are more important than others: not to worry; the relative importance of the principles will become clear as we go along.
+
+As you investigate arguments during the course, you will improve the following skills:
+
+• RECOGNITION of arguments
+
+• EVALUATION of arguments
+
+• CREATION of arguments
+
+“Critical thinking is skeptical without being cynical. It is open-minded without being wishy-washy. It is analytical without being nitpicky. Critical thinking can be decisive without being stubborn, evaluative without being judgmental, and forceful without being opinionated.”
+
+--Peter Facione
+
+19
+
+20
 
 
-
-
+24
 
 Every argument contains at least one intended conclusion plus one or more supporting reasons, called premises. However, in some passages it is not easy to tell whether an argument occurs at all, nor what the premises and conclusion of an argument really are, nor how other arguments in the passage are related to that argument. This chapter explores that understatement. It begins with an introduction of special phrases that often indicate the presence of premises and conclusions. Then the chapter investigates the problems of identifying the unstated premises and conclusions. For especially complex argumentation, the chapter introduces a diagramming technique that can provide a helpful display of the argument structure.
 What is a Statement?
