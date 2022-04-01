@@ -1,3 +1,10 @@
+
+
+
+
+
+
+================================================================================================================================================================
 5
 
 That's how you have made your own decision. Is it a reasonable one? Yes, because it is based on high-quality reasoning. Is it the best decision--the one an expert would have made in your place? You don’t know this, but yes, the experts do say that stream water will be safe if you boil it for a minute or two. Giardia is caused by protozoa which can’t live for long at high temperature. Other micro-organisms can survive this heating, but they usually won’t cause any human illness. The reason people use water-purification tablets instead of boiling is for convenience; using the tablets avoids all the extra time for the water to boil and then later to cool down to drinking temperature.
