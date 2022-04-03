@@ -267,22 +267,243 @@ However, suppose later that some self-styled critical thinker or some other medi
 
 
 ================================================================================================================================================================
-172
+269
+In earlier chapters we examined several techniques of deception: exaggeration, telling only half the truth, and using loaded language. Fallacies are errors in reasoning, and they can be used to deceive, as we saw in the discussion of the fallacy of avoiding the issue, the red herring, and misplacing the burden of proof. In this chapter, we explore other important fallacies. Knowing the main ways that people are lured into these errors will improve your chances for logical self-defense in the future.
+Ad Hominem Fallacy
+If you venture to disagree with some people about any matter of religion or politics, they will be on your back like a rooster on a tater bug. They'll scratch at you any way they can; call you names; humiliate you; and attack you with an ad hominem fallacy.
 
 
-173
+270
+Suppose a soccer player is trying to convince somebody that black-and-white soccer balls are easier to see at dusk than red-and-yellow balls, when a third person butts in and says, "Who are you to talk about good and bad soccer balls? You’ve been thrown out of more soccer games for rules violations than anyone else on the team, and you still owe me five bucks for last season's team trophy." The person who is butting in commits the ad hominem fallacy: attacking an argument by pointing out some irrelevant characteristic of the reasoner rather than by pointing out some error in the reasoning itself. Purposefully using the ad hominem fallacy is a kind of smear tactic. The way to avoid committing this fallacy is to concentrate on the reasons, not on the reasoner.
+The ad hominem fallacy has 3the logical form “The argument is made by a person who has a bad trait, so the argument is faulty.” Most arguments of this ad hominem form are faulty, but some are fine provided having the mentioned trait is relevant to the argument quality. For example, if the trait is that the arguer is well known to have lied several times on this very topic, then the trait is relevant, and the person’s conclusion isn’t to be trusted for the reasons given. Relevance is not about logical form, but about the content or details of the argument.
+────CONCEPT CHECK────
+Which of the following brief arguments are examples of the ad hominem fallacy?
 
 
-174
+271
+a. Buy Cheerios; it's the breakfast of champions.
+b. Don't buy Cheerios. They're too expensive.
+c. Don't listen to Andy's argument for buying Cheerios. He's admitted the reasons behind his concluding that they aren't worth buying or eating, and those reasons really do not support his conclusion.
+d. I believe that Cheerios cost less, and all Emilio's numbers and figures about how relatively expensive the cereal is are not convincing, because he's some sort of politician.
+────192
+Ad hominems are not always so obvious. Frustrated by a doctor's warnings against smoking, a patient might strike back by saying, "Who are you to talk? You smoke." Has the patient committed an ad hominem fallacy? This is a difficult question. At first sight, you might be apt to say something like this: "Yes, the doctor might be a hypocrite, or a victim of weakness of the will, but the patient's complaint is irrelevant to whether or not the doctor's reasons against smoking are good reasons. “Do as I say, not as I do,” is what the doctor is suggesting. Therefore, the patient has committed an ad hominem fallacy. But on second thought, the patient has a point. It is well known that you often can learn more about what people really believe by observing how they act than by listening to what they spout off about. It could be argued reasonably that if the doctor really believed what he says about smoking, he would follow his own advice. Because he doesn't follow his own advice, it is reasonable to conclude that the advice should not be followed unless other authorities can be found to back up the advice. If the patient had never heard anything negative about smoking except for what this doctor has said, the patient would be acting properly in hesitating to follow the advice. So, the reasoning does not commit the ad hominem fallacy.
+Fallacy of Circular Reasoning
+If you justify A by appeal to B, then justify B by appeal to C, and then justify C by appeal to A, you are reasoning in a circular. Earlier we saw example of giving circular definitions. Here is another example. By definition, the Bialystok fallacy occurs when there is an instance of either circular reasoning or a Bialystok fallacy. Because the Bialystok fallacy is the most significant of all the fallacies, you can be sure that it is a fallacy of the highest significance. Circular reasoning is also called “begging the question” when there is a circular of justification rather than a circle of
+
+---------192 Answer (d). Only in (d) does the reasoner reject someone's argument by pointing out irrelevant characteristics of the arguer. Answer (c) gives an argument that might appear to attack the arguer, but notice that the attack is on the arguer's reasons and really not on the arguer.
 
 
-175
+272
+definitions. Here’s an example with a very small circle: Smoking is bad for your health because it’s so hard on your health when you smoke.
+Straw Man Fallacy
+When you are arguing with someone, your goal is usually to create an argument that successfully shows the other person's position to be false. Your argument is then called a refutation of your opponent's position. From a logical reasoning perspective, which is one of fairness to the opposition, you ought not mistreat your opponent, nor should you misrepresent your opponent's position. Here is an example of someone misrepresenting a position:
+Lobbyist for the logging company: I'm asking you to help encourage Congress to pass that bill to provide subsidies to Western logging companies for selective cutting of 10,000 acres of federal timber land.
+Environmentalist: I don't see how you can seriously ask any of us for our help. You are asking our grandchildren to live in a world in which they will never see a tree, never spot a deer, never smell the sweet scent of pine needles. Do you have any idea how bad it would be to live this way? No trees means bad air. No trees means muddy rivers. No trees means no wildlife. How can you defend the rape of the land? Land is precious; forests are precious; our grandchildren are precious. I don't understand how you can ask us to pick up the banner of desolation.
+What an exaggeration! The environmentalist offers all sorts of reasons why there shouldn't be land rape or deforestation of the planet. The lobbyist was asking for logging subsidies, not land rape. The environmentalist has misrepresented the lobbyist's position and then begun to beat up on the misrepresentation. This unfair approach is called the straw man fallacy.
 
 
-176
+273
+A speaker commits the straw man fallacy whenever she falsely attributes an especially weak position to her opponent that he wouldn't have proposed himself and then proceeds to attack the weak position. The opponent is a real man with a real argument; the weak position is an artificial one held by an artificial person—the "straw man" or scarecrow the speaker has created. It's easier to attack a straw man; nevertheless, the attack is irrelevant. It is a diversion from the main issue.
+You are not committing the straw man fallacy simply by drawing a consequence from what the man says that is not what he himself would draw. It must be clear that you are also misinterpreting what he did say. Here is another example of the straw man fallacy, committed by Bob:
+Andy: We should liberalize the laws on crack.
+Bob: No. Any society with unrestricted access to drugs loses its work ethic and
+goes only for immediate gratification. We don't want that, do we?
+Andy: Hey, I didn't say anything about unrestricted access to drugs.
+That's not the liberalization I want.
+Bob has attacked a position that Andy doesn't hold. So, Bob's attack is an irrelevant smokescreen that commits the straw man fallacy. Bob's argument is ineffective logically, although it may still be effective psychologically, especially when Bob goes on to make other points against Andy and doesn't give him time to come back and defend himself.
 
 
-177
+274
+To avoid committing the fallacy, Bob could, instead, have said to Andy something like the following:
+Bob: What do you mean by liberalize? If you mean unrestricted access to drugs, then society will lose its work ethic and go only for immediate gratification, which we don't want, do we? But if you mean some other kind of liberalization, let's hear it. However, what we need is more crackdown on crack, not more liberalization, because. . .
+When someone criticizes you by using the straw man fallacy, your natural reaction is to say, "Hey, wait a minute, I didn't say that." Unfortunately, you usually receive the criticism at the last second. Your opponent misrepresents your position while you are not around to defend yourself. In politics, this fallacy frequently occurs in leaflets and ads a day or two before the election.
+False Dilemma Fallacy
+Reflect on your own work experience, then respond to this item from a questionnaire.
+On average, each week your present employer (or your previous employer if you are not now employed) is drunk on the job
+a. occasionally
+b. usually
+c. always
+Suppose your employer is never drunk on the job. What answer could you choose? You don't have one to pick, so you are in a dilemma. Because it is false to say that the three given choices are all that exist, the dilemma is a false one, and the error of reasoning committed by the creator of the question is called the false dilemma fallacy. To remove the fallacy, the question could be revised to add a fourth choice, "never." False dilemma reasoning is an example of slanting by unfairly presenting too few choices. It loads the set of choices unfairly by not offering a fair range of choices.
+The black-white fallacy is a false dilemma fallacy that limits you unfairly to only two choices, as if you were made to choose between black and white. Real life is often not so black and white. What about part black and part white? What about the gray? Saying "You are either for our proposal or you are against it" is the most common example of the fallacy. Dick Gregory put it this way: "Either you are part of the solution or you are part of the problem." If you rightly complain that the dilemma you face is unfair and that there is another choice you should be offered, then you are finding a way to escape between the horns of the dilemma. That is, you escape
+
+
+275
+being gored by the choices offered. For three-horned false dilemmas you may escape among the horns instead of between the horns.
+Not all dilemmas are false ones. If your employer's drinking problem does occasionally interfere with the quality of his (or her) work, you have to consider whether you will ignore it or instead report it to someone. Now you face a true dilemma. If you do nothing, the problem may not get solved. But if you blow the whistle by reporting the problem to another superior, you might have to deal with your employer's reaction when he finds out. He could start assigning you the more unpleasant assignments and you may suddenly find letters in your personnel file describing your poor work performance.
+────CONCEPT CHECK────
+Which of the following passages, if any, contain a false dilemma fallacy?
+ Would you vote for the president if he were to run again, provided that code section D of article 20 were repealed, and supposing that under provision 60B the president were to declare his assets and swear not to have been involved in lobbying for a foreign power in the interim?
+ How many alcoholic beverages have you drunk in the last 24 hours?
+ Is the president doing about the same quality job as he was doing last year or is he doing better this year?
+ Please suggest improvements, if any, you would make in Einstein's theory of relativity.
+ Is Einstein's theory of relativity better than Isaac Newton's for predicting orbits of planets.
+────193
+Here is a false dilemma fallacy you can commit on purpose if you want to trick a toddler into doing something:
+Do you want to go to bed now or after you’ve had a glass of apple juice?
+The child who doesn't want to go to bed at all might be tricked into choosing the apple juice. After the child is done with the juice you can say, "OK, remember you agreed to go to bed after the juice." The child who can see his or her way through the horns of this petty manipulation has reached a definite step up in logical reasoning ability.
+
+
+276
+A politically significant example of the false dilemma fallacy occurs in this resolution adopted by a major political party in Arizona. It states that the United States is "a republic based on the absolute laws of the Bible, not a democracy based on the changing whims of people."194 A logical reasoner should ask, "Must it be one or the other?" One of the two choices offered by the resolution is that democracy is based on whims; the readers are offered no choice of a democracy based on something else, such as on reasoned opinion hammered out in the marketplace of competing ideas. By slanting the list of acceptable choices, the resolution guides the reader to making the favored choice. Successful stacking of the deck has to be somewhat subtle. If the resolution had said "a republic based on the Bible, not a democracy based on the changing whims of the stupid voters," it would not have passed because it would not have been subtle enough to pass.
+Does the sign below commit the false dilemma fallacy?
+This is not an easy question. Whether it commits the fallacy depends on whether there are really only two choices. Are there? How you answer this question may depend on your ideology or world-view. People with certain ideologies would say that ultimately there are just these two choices—Jesus Christ or Satan. Those with a different ideology—Christian Scientists or Muslims or atheists, for example—will say that there are other choices. So, to decide whether the fallacy has been committed here, we first need to settle the issue of the correctness of the religious ideology that says there are just these two choices. That is a large task, not one well suited to this book. However, it would be incorrect to answer the question of whether the sign commits the false dilemma fallacy by saying, "Yes, it's a false dilemma if you have one ideology; but it's not a false dilemma if you have another ideology." This would be incorrect because the sign either does or doesn't commit the fallacy. Whether it does depends on whether the religious assumption
+
+
+277
+behind the sign is correct. Thus, what it would be correct to say is that people who hold one sort of ideology will say, "Yes, it's a false dilemma, "whereas those who hold another ideology are apt to say, "No, it's not a false dilemma.'' In short, the issue of whether the sign commits a false dilemma fallacy depends in turn on resolving another issue, the correctness of the religious assumptions behind it.
+To summarize, by using the false dilemma fallacy, a speaker withholds important choices. The choices presented divert the reader's or hearer's attention away from the other choices. Pointing out one of those other choices is called escaping between the horns of the dilemma.
+Fallacy of Faulty Comparison
+Suppose a TV commercial shows a woman wearing Jones & Jones gardening gloves. She is finishing her Saturday rose gardening without scratched hands, while her neighbor who gardens without gloves eventually quits because of the wear and tear on her hands. The commercial ends with the comment, "Don't you wish you had Jones & Jones gardening gloves?" This commercial tries to lure you into doing some faulty reasoning. The commercial creator wants you to compare having no gloves with having Jones & Jones gloves and then to conclude that you should buy Jones & Jones gloves rather than other brands. The logical reasoner will draw another conclusion. The commercial gives some reason to believe that, for gardening, wearing gloves is better than not wearing gloves, but it gives no reason to believe that Jones & Jones gloves are better than any other brand of gloves. This commercial offers a faulty comparison. The comparison should have been between Jones & Jones gloves and competing brands of gloves, not between Jones & Jones gloves and no gloves at all. The advertising agency that created the commercial intentionally used the fallacy of faulty comparison to deceive viewers. What was compared wasn't what should have been compared.
+────CONCEPT CHECK────
+Explain why the fallacy of faulty comparison occurs in the following advertisement for Flox mouthwash, and explain how to revise the ad to remove the problem:
+Flox removes 300 percent more plaque than simple rinsing. Isn't that reason enough for your family to buy Flox?
+────195
+
+
+278
+Consider this ad: "Enzine detergent motor oil causes less exhaust emission than the leading seller. Buy Enzine." The faulty comparison problem can be useful for understanding this ad. Even if the ad is correct in what it says, you still need to worry before you decide to buy Enzine. For consumers to make an informed decision about which product to buy, shouldn't the Enzine oil be compared with all the other motor oils, not merely the leading seller? The best seller might be best merely because it is the most highly advertised or least expensive, not because it is a high-quality product. The second major difficulty with the ad is that Enzine might be better than all the other products in terms of exhaust emission, but what about other considerations, such as price and constancy of viscosity, that are important for motor oils? When all these factors are considered, the leading seller might be better for your engine than Enzine, even if what the ad says is true. By selectively presenting the comparison information and by not giving you the other relevant information, the ad is presenting a half-truth.
+Fallacious Appeal to Authority
+You know that the moon is a big, hard rock, don't you? It looks that way. But wait! How do you know? How do you know it's not made out of soft plastic? You've never been to the moon. You could be wrong, couldn't you?
+Don't let that last question intimidate you. You don't have to go to the moon to know about it. You know the moon is a big, hard rock because you have probably read that fact in a science book or heard it from a science teacher. Science teachers can speak with authority on this matter. If you believe that the moon is a big rock for a reason like this, then you know it. Much of what you know you have learned this way. You don't find out for yourself; you believe what authorities say, at least when you can be reasonably sure they are in agreement with each other. You are right to do so. It is not firsthand knowledge, but it is still knowledge.
+Suppose you came to believe that the moon is a rock only on the basis of what your sister told you. Then you wouldn't know the truth about the moon, assuming that she is no authority. You would believe the truth about the moon, but you wouldn't know the truth. To have knowledge you need more than true belief. To know something, you have to have solid justification for it. Knowledge is justified true belief; your knowledge is your true beliefs that you could back up by good reasons. The reasons are crucial; without them you just have opinion, not knowledge.
+
+Knowledge is justified true belief.
+
+If you were to learn that some person's supposed knowledge turned out not to be true, then you would say the person never really knew it after all. For example, in Medieval times many people thought they knew the Earth to be flat, but they were mistaken and didn't really know it. They
+
+
+279
+did have a justification for believing what they believed: they could climb a hill, look out, and see that the world appeared to be flat. That was good evidence for the time. Yet their belief was not knowledge, even though it was reasonable for them to hold the belief. In other words, they had a good reason to believe something false, but because it was false it was not knowledge.
+────CONCEPT CHECK────
+Without having a justification, a person's claim to have knowledge is unsuccessful, but with the justification the person’s claim
+a. will never be mistaken and will really know.
+b. might be mistaken.
+a. will always be mistaken, and thus the person will not know.
+────196
+If you answered that concept check correctly, then you’ll have no problem with this one.
+────CONCEPT CHECK────
+Explain the error in the following sentence, then rewrite it to make the point correctly:
+In Medieval times, people knew that the world is flat, but we now know that it's not flat.
+────197
+More about Assessing Credibility
+Suppose your next-door neighbor says you shouldn't marry your sweetheart. When you ask her why, she says it's because her older brother thinks so. "So what?" you say. She responds by pointing out that he is an expert psychologist. At this point are you going to call up your true
+
+
+280
+love and say it's all over? No. Being an expert on psychology doesn't make your neighbor's brother an expert on your love life. You know that your neighbor picked an inappropriate authority to back up her claim. The neighbor has made a famous error of reasoning, the fallacious appeal to authority. When it comes to your love life, there probably isn't any authority.
+There is an appeal to authority in this article from a college newspaper. Does it commit the fallacy?198
+The Lottery—The Odds to Beat
+Just what are the chances of winning the state lottery? Statistician Peter Bennett says there is one chance in 25 million of winning the $2 million grand prize. The odds are pretty slim, but remember, a $1 ticket could turn into $2 million!
+Did the newspaper reporter commit a fallacious appeal to authority by citing statistician Peter Bennett? No. Statisticians are just the right sort of people to appeal to about such a matter. So, unless you have a good reason to doubt Bennett's statistics, you should accept them. This acceptance is based on the following principle of logical reasoning: If a person is especially knowledgeable about a subject, then that person's views on the subject should be trusted more.
+A fallacious appeal to authority can occur when an appeal is to someone who really is not an authority in the area. Don't ask a chemist when you want an expert opinion about hockey rules. The fallacy can also occur when a claim is backed up by an appeal to an authority in the appropriate area yet the authorities themselves are in significant disagreement with each other. When authorities disagree, none of them can "speak with authority." If I find ten authorities who say to vote Republican in the next U.S. presidential election, you can probably find ten authorities who say to vote Democratic. So if I appeal to my ten authorities as the reason why you should vote Republican, I’ve committed a fallacious appeal to authority. Sometimes, however, political
+
+
+281
+experts should be trusted. If they say who won last year's election, you should trust what they say unless you have a good reason not to. You have background knowledge that the experts won't disagree on this topic.
+Here is a more difficult question along this line. Does the following passage commit a fallacious appeal to authority?
+According to psychologists, telepathy (that is, mind reading) occurs more often between friends. The closer the friend, the more frequent the telepathy and the stronger the connection. Only the most gifted of people can read the thoughts of total strangers.
+What should you think about all this? First, ask yourself whether psychologists are the right authorities. Shouldn't the speaker appeal instead to brain surgeons? No, psychologists are the appropriate authorities. The fallacy occurs because the speaker has twisted what the authorities really do say about telepathy. Only a small percentage of psychologists believe in telepathy, and they are not the experimental psychologists (the scientists). Almost all scientific experts agree that telepathy is impossible. Therefore, the rest of us are justified in saying so, too.
+How could the position of the psychological authorities be changed to favor telepathy? Here is one way. Have a purported mind reader pass a test. The mind reader could agree in advance to tell some of those psychologists what they are thinking about—say, at 2 p.m. each day for the next three days. If the mind reader is correct in even only two out of the three days, the psychologists would kneel down and kiss the mind reader's feet. Claims to be able to read minds on demand are at least testable; and passing the tests should make the case in favor of the existence of telepathic powers. Unfortunately, nobody has ever been able to pass such a test.
+You should critically examine such phrases as "According to psychologists . . ." and "Science has shown that. . ." These phrases are occasionally misleading.
+You also need to be on the alert that experts won’t always tell you the truth. Of course you can always trust me, the author of this book. After all, who are you going to believe? Me or your lying eyes?
+
+When people cite an authority to you, you have to worry that they might not understand what the authorities do say, might not realize that the authorities disagree with each other, or, worse yet, might not be telling the truth about what an authority says.
+
+
+282
+Most of us, not being scientists ourselves, cannot evaluate the scientific details. We have to rely on what others tell us the scientists say. Those others are usually reporters for newspapers, magazines, radio, and TV. Sometimes in their rush to get the story done, reporters will not bother to examine the quality of the science they are reporting on. They won't be careful to evaluate the reputation of the scientist or to check whether other scientists dispute the quality of that scientist's work. For example, suppose the issue is whether the state legislature should pass a bill favoring cloth diapers over disposable diapers. The relevant scientific issue is the impact of both kinds of diapers on the environment. One reporter may incorporate into his news article some paragraphs from a press release crafted by the cloth diaper company that financed the research. The press statements might say, "Independent research shows cloth diapers to be environmentally sound, while disposable diapers clog our nations landfills without decomposing." The reporter might not have taken the time to determine whether the scientific research really was done by an "independent" researcher. Perhaps it was done by a scientist specifically paid to do the research because the company suspected he or she would come up with the "right" results about the product. Meanwhile, perhaps unknown to the first reporter, some other reporter is incorporating into her own article the key paragraphs from the press release of the disposable diaper company. It has financed its own scientific research showing that "disposable diapers are environment-friendly while cloth diapers must be washed with suds that foul our rivers." We consumers need to be wary of these possibilities of sloppy reporting.
+One thing we can do as readers is to be alert for a sentence saying that the scientist was not financed by the company whose product is being reported on. We should also be alert for a sentence indicating that other researchers support the scientist's work. When such helpful sentences are absent, do we conclude that the reporter didn't check all this out, or do we conclude that he or she did but just didn't bother to tell us? We really are stuck in a dilemma. And there is a second dilemma. Do we accept the reported conclusion of the scientific research, or do we remain skeptical? We are too busy to check up on the report ourselves—we barely have enough time to read the entire article from just one reporter. Most reports we receive are not personally important enough for us to engage in a massive reading project to determine just what to believe. Ideally, we might want to withhold our judgment about cloth versus disposable diapers until we get better information, but realistically we will probably never get that information. Nor will we get definitive information about the thousands of other large and small issues facing us throughout our life, and we cannot go through life never having an opinion on anything. The philosopher George Santayana may have been correct when he said that skepticism is the chastity of the intellect, but our intellects can't be skeptical all the time; we have to embrace most of the beliefs of the reporters. It is for this very reason that the information media are so powerful; they inevitably shape our minds even when we are trying to be logical reasoners and careful about what beliefs we adopt. The defense against this situation is to try and get information from a wide variety of sources.
+────CONCEPT CHECK────
+Identify the appeal to authority in the following piece of reasoning. Why should you be convinced by the speaker's reasoning?
+
+
+283
+Our government is standing in the way of progress. What the government should be doing is solving our problems. Yet the government is not doing this because it is not funding a request for what it needs most of all, a universal answering machine. This machine would give an answer to nearly all factual questions that were fed into it. For example, if you want to know if a piece of reasoning is fallacious, you input the reasoning into the machine and then check the output for an answer. If you want to know the cure for AIDS or for some other disease that has no known cure, then just feed in the question, and the universal answering machine will give the correct answer. The machine would do all this without the programmer first feeding it the answers. We don't have such a machine yet, but we should get one right away because having it would be so helpful. Scientific reports show that its creation is not far off; there just needs to be a major increase in funding. There should be a lot of money offered for the best grant applications. That grant money will draw in the best scientific minds to work on this most important project.
+The government knows about the universal answering machine project. I wrote Congress and the president two years ago about it. Their inaction shows that the government is standing in the way of progress. Either they are stupid, or there is a cover-up.
+────199
+Spotting an Authority's Bias
+There is an additional element you have to worry about when someone appeals to authority: bias on the authority's part. First let's define bias: If someone disagrees with you, then they are biased.
+More seriously, suppose a British politician claims that there is no significant corruption in Venezuela's oil ministry. The politician's evidence is that the chief oil minister of Venezuela was quoted in last week's Newsweek magazine as saying his ministry is free of corruption. Should you accept the British politician's argument? Well, since you probably don't know anything about Venezuelan oil, isn't the oil minister in a better position to know whether there is corruption in his oil ministry? Yes, and he is the right authority on the matter. Also, you don't have any reason to believe that he was misquoted. So shouldn't you accept the British politician's claim that there is no corruption? No. It is doubtful that this particular authority will tell the truth. Wouldn't he be likely to cover up corruption if it existed?
+When someone wants you to accept a claim because a certain authority says it is so, you should ask yourself a few questions:
+
+
+284
+1. Is the authority an authority on this subject?
+2. Do the authorities agree with each other (except for the occasional lone wolf) ?
+3. Can the person who appeals to the authority be trusted to report honestly and accurately what the authority said?
+4. Can the authority be trusted to tell the truth on this topic?
+Only if you get “yes” answers to these questions should you go ahead and accept what the authority says. Still, look before you leap. For example, all of us trust doctors to be authorities. They have expert knowledge that we do not have. What would you do, though, if you ventured into a doctor's office with symptoms of flu and the doctor said, "I'm sorry, but your leg has to come off right away; sign this release form, and we will get you straight into the hospital"? The principle of logical reasoning that you apply at this moment is the following: When the stakes are higher, it is more important to get better evidence before making the decision. Besides, you might learn that the authorities disagree among themselves about whether your leg needs to be removed.
+Appeals to expert opinion will sometimes lead you to error. Even experts make mistakes. However, occasional slip-ups by the experts are no reason to quit using authorities as sources of knowledge.
+────CONCEPT CHECK────
+You’ve been asked to research living conditions in two large American cities, Kansas City and Baltimore, especially whether the cost of living of the average person is greater in one city or the other. The cost of living encompasses the cost of food, housing, car insurance, and other regular expenses. Which person below would be most likely to give you the best answer or the best suggestion on where to go to get the answer?
+a. A local building contractor who owns land in Baltimore and who has recently built homes and apartments in both Baltimore and Kansas City.
+b. Your college's urban studies professor.
+c. Your uncle who lived in Baltimore for five years before moving to Kansas City last year.
+d. The personnel director of the company that offered you a new job this week in Kansas City.
+
+
+285
+────200
+Here is a more difficult question about how to assess whether someone is an authority.
+────CONCEPT CHECK────
+Below is a brief biography of a person, followed by a list of topics. Rank the topics according to her expertise in them, beginning with those on which she would be able to speak with the most authority.
+Judy Wilson is currently the director of government documents for the Library of Congress in Washington, D.C. Ten years ago she took a three-year leave from the library to co-direct the census for the Chinese government in Beijing. In 2001 she received a Ph.D. from the Food Research Institute at Stanford University, where she wrote her dissertation on current food consumption patterns throughout China. She published a book four years later on mathematical methods in geography and has published several scholarly articles on the wages and working conditions of women in Asia and Africa.
+How can interested members of the public obtain classified research documents as they are declassified and released by the Pentagon and the National Archives?
+a. Are Chinese and Indian foods as popular in the U.S. as they were five years ago?
+b. Are more women raped in Japan than in China?
+c. Are the disabled people in China currently as well fed as those elsewhere in Eastern Asia?
+d. Would an accurate census be more difficult to carry out in Ecuador or in Egypt?
+────201
+
+
+286
+Slippery Slope Fallacy
+Watch out starting down a slippery slope. You might fall to the bottom and hurt yourself. That’s the idea behind the slippery slope fallacy. Arguments of this form are fallacious if there is no good reason to believe you will fall to the bottom after that first step. For example, someone might argue that you shouldn’t smoke cigarettes because, if you do, then you’ll soon be smoking cigars, and then smoking marijuana, and then cocaine and heroin, and pretty soon you’ll be lying under the bridge unconscious with an infected needle sticking out of your arm. Fallacious reasoning, right? There are perfectly good reasons for not smoking cigarettes, but this isn’t one of them.
+The logical form of a slippery slope fallacy looks like this:
+A leads to B. B leads to C. C leads to D. D leads to ... ... which leads to HELL. We don't want to go to HELL. So, we should not take that first step A.
+If A leads to B with a probability of 80 percent, and B leads to C with a probability of 80 percent, and C leads to D with a probability of 80 percent, is it likely that A will eventually lead to D? No, not at all; there is about a 50 percent chance. The proper examination of a slippery slope argument depends on sensitivity to such probabilistic calculations. If the probability of reaching that last step is too low, then that slippery slope argument is an instance of the slippery slope fallacy.
+Genetic Fallacy
+
+
+287
+A critic commits the genetic fallacy by attempting to discredit a claim because of its origin (genesis) when such a criticism is irrelevant to the claim. Suppose a friend of yours is reading the newspaper and mentions a report about Senator Friedman's bill to redraw the boundaries of the political districts in your state. Your friend is describing the senator's reasons for the new boundaries when he surprises you by mentioning that, according to the article, the senator got the idea for the new boundaries from a dream she had one night. You say to your friend, "Hey, stop right there. There's got to be something wrong with Senator Friedman's reasons, because she got the idea from a dream.” When you say this, you are committing the genetic fallacy because you are paying too much attention to the genesis of the idea rather than to the content of the idea and the justification offered for it.
+Similarly, if Sigmund Freud, the father of psychiatry, had said that a patient's reasons for believing in God must be faulty because she arrived at her belief as a product of needing a strong father figure who would protect her and answer her prayers, Freud would have been committing the fallacy.
+Sometimes more than fallacy label can be assigned to the same error. For example, suppose you were asked to evaluate the reasoning in the following passage:
+In a recent American presidential campaign, a U.S. senator was running against the president for the party's nomination. The senator argued in a speech that the president should be held responsible for an international crisis that hurt American influence in the world because the president had advance signals of the coming crisis but had not acted effectively to prevent the crisis. How did the president reply? By dismissing the senator's argument on the grounds that it was "politically motivated.”
+Clearly the president, and not the senator, made the error in reasoning here. What error, though? There are several ways to correctly label the mistake:
+a. Ad hominem, because the president attacked the senator's character as being that of a politically motivated person.
+b. Fallacy of avoiding the issue, because the president did not address the senator's question of who is responsible for the crisis but instead chose to change the issue to whether the senator's charges were politically motivated.
+c. Genetic fallacy, because the president attacked the genesis or origin of the senator's complaint rather than the complaint itself.
+Non Sequitur
+Suppose you’ve been shopping for a TV set and I tell you not to buy a television set today because it is Tuesday. "Why Tuesday?" you might ask. "Because Tuesdays are so boring," I answer. I have
+
+
+288
+a reason for your not buying the TV set, so I have an argument. But what sort of argument? The reason is so weak that many people are apt to say, "That's no reason at all." My reason may not be totally irrelevant to the issue, but it does not provide significant support for my position on the issue. It would only convince somebody who already was anti-Tuesday or opposed to your purchase, and even if this did convince them it should not convince them. When a conclusion is supported only by weak reasons or by irrelevant reasons, the argument is fallacious and is said to be a non sequitur. This Latin term means "does not follow." Any fallacious argument is one whose conclusion doesn't follow from its supporting reasons, so any fallacious argument is appropriately called a "non sequitur." However, we usually apply the term only when we cannot think of how to label the argument with a more specific fallacy name and when it is fairly easy to show that the reasons are weak.
+Sometimes when we say, "That's no reason at all," we do expect to be taken literally, because there really is no reason there. If so, there is no argument, and thus no non sequitur fallacy either. Although there is a fuzzy line between a radically weak argument and no argument at all, there is a difference between the two. The weak one has at least some reasons; the other does not. Here is an example of a disagreement in which a person thinks he is giving an argument but in fact is giving no argument at all:
+NON-ARGUMENT: Rafael, you really ought to vote for the Democrat. I just don't understand how you can think of voting for that Republican. I mean, where's your head?
+
+
+289
+The Democrat is so obviously the one to vote for, you should do it and get it over with. Don't sit there and even think about that Republican.
+If there were an argument here, the conclusion would be for Rafael to vote for the Democrat. But there is no argument because there is no reason given for the conclusion. Sometimes the term non sequitur is defined more broadly to include a non-argument that is mistakenly put forward as an argument. On that definition, the above non-argument would count as a non sequitur, but we won’t use the term that way.
+Here is another example of a passage that you are apt to react to by saying, "That's no argument at all":
+NON SEQUITUR ARGUMENT: Nuclear disarmament is a risk, but everything in life involves a risk. Every time you drive in a car you are taking a risk. If you're willing to drive in a car, you should be willing to have disarmament.
+At this point you might think, "Hey, that's no reason for disarmament," by which you really mean that it’s not a good reason. All it is saying is that the risks of disarmament are OK because some other risks are OK. Well, some other risks are OK, but some are not OK. So, the reason given is extremely weak.
+In summary, whenever you react to a piece of reasoning with a comment such as "Hey, that's no sensible reason for that," you’ve probably detected a non sequitur fallacy.
+────CONCEPT CHECK────
+Is the following argument a non sequitur? If it is, explain why.
+Your information shows part of Canada is south of part of California. Therefore, we can be sure that John was right when he said, "Some of Canada is south of part of either California or Nevada."
+────202
+Review
+
+
+================================================================================================================================================================
+299
+
+
+
+
 
 
 ================================================================================================================================================================
